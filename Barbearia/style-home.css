@@ -1,0 +1,58 @@
+.titulo-principal {
+    padding-left: 20px;
+}
+
+#banner {
+    width: 100%;
+}
+
+.principal {
+    background: #CCCCCC;
+    padding: 30px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0px 0px 10px 0px;
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px;
+}
+
+em strong {
+    color: red;
+}
+
+.beneficios {
+    background: white;
+    padding: 20px;
+}
+
+.beneficios ul {
+    display: inline-block;
+    vertical-align: top;       /* Colocar o item na altura */
+    width: 20%;
+    margin-left: 15%;
+}
+
+.beneficios li {
+    font-size: 20px;
+    padding: 5px 0px;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.imagem-beneficios {
+    width: 50%;
+}
+
+
